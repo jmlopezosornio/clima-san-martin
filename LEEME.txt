@@ -1,0 +1,21 @@
+CLIMA SAN MARTÍN DE LOS ANDES
+Copia de la versión actual de jmlopezosornio/clima-bariloche.
+Se mantienen diseño, fondos automáticos y tamaños. Se adaptan ciudad, provincia, coordenadas y caché de datos.
+
+PUBLICACIÓN
+1. Crear en GitHub un repositorio público llamado clima-san-martin.
+2. Descomprimir este ZIP y subir sus archivos y la carpeta img a la raíz del repositorio.
+3. En Settings > Pages elegir Deploy from a branch, rama main y carpeta / (root), y guardar.
+4. GitHub mostrará la dirección pública cuando termine la publicación.
+
+PÁGINAS
+index.html: diseño principal.
+pantalla-240x280.html: 240 x 280 px.
+pantalla-160x320.html: 160 x 320 px.
+pantalla-240x120.html: 240 x 120 px.
+
+DATOS
+Coordenadas del centro de San Martín de los Andes: -40.1579, -71.3534.
+Fuente: Open-Meteo (https://open-meteo.com/).
+Temperatura, estado, humedad, sensación, viento y mínima/máxima del día.
+Actualización automática cada diez minutos. Sin fecha/hora visible.
